@@ -31,7 +31,7 @@
 -include device/htc/msm8660-common/BoardConfigCommon.mk
 
 # Broadcom specific config
--include device/htc/msm8660-common/bcm.mk
+-include device/htc/msm8660-common/bcmdhd.mk
 
 BOARD_KERNEL_BASE := 0x48000000
 BOARD_KERNEL_PAGE_SIZE := 2048
