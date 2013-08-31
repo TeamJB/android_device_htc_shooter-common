@@ -200,4 +200,7 @@
         <item>5</item>
         <item>7</item>
     </integer-array>
+
+    <!-- Enable variable brightness for capacitive buttons -->
+    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
 </resources>
